@@ -7,18 +7,13 @@
 </p>
 
 <p align="center">
-  Prism Launcher is a custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once.<br />
-  <br />This is a <b>fork</b> of the MultiMC Launcher and is <b>not</b> endorsed by it.
+  HLX is a custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once.<br />
+  <br />This is a <b>fork</b> of the Prism Launcher and is <b>not</b> endorsed by it.
 </p>
 
 ## Installation
 
-<a href="https://repology.org/project/prismlauncher/versions">
-    <img src="https://repology.org/badge/vertical-allrepos/prismlauncher.svg" alt="Packaging status" align="right">
-</a>
-
-- All downloads and instructions for Prism Launcher can be found on our [Website](https://prismlauncher.org/download).
-- Last build status can be found in the [GitHub Actions](https://github.com/PrismLauncher/PrismLauncher/actions) tab (this also includes the pull requests status).
+[Releases](https://github.com/huskymcraft/HuskyLauncherX/releases/latest)
 
 ### Development Builds
 
@@ -26,8 +21,8 @@ Please understand that these builds are not intended for most users. There may b
 
 There are development builds available through:
 
-- [GitHub Actions](https://github.com/PrismLauncher/PrismLauncher/actions) (includes builds from pull requests opened by contributors)
-- [nightly.link](https://prismlauncher.org/nightly) (this will always point only to the latest version of develop)
+- [GitHub Actions](https://github.com/huskymcraft/HuskyLauncherX/actions) (includes builds from pull requests opened by contributors)
+- [nightly.link (Prism Launcher)](https://prismlauncher.org/nightly) (this will always point only to the latest version of develop)
 
 These have debug information in the binaries, so their file sizes are relatively larger.
 
